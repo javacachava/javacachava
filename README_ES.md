@@ -107,29 +107,15 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" />&nbsp; Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/javacachava/javacachava/profile-summary/profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" alt="Detalles del perfil" />
-</div>
 
-<br>
+  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=javacachava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&icon_color=00B4D8&title_color=00B4D8&locale=es)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/javacachava/javacachava/profile-summary/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="47%" alt="Repos por lenguaje" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/javacachava/javacachava/profile-summary/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="47%" alt="Lenguaje con más commits" />
-</div>
+  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=javacachava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&locale=es)
 
-<br>
+  ![Racha de contribuciones](https://streak-stats.demolab.com/?user=javacachava&theme=tokyonight&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&locale=es)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/javacachava/javacachava/profile-summary/profile-summary-card-output/tokyonight/3-stats.svg" width="47%" alt="Estadísticas" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/javacachava/javacachava/profile-summary/profile-summary-card-output/tokyonight/4-productive-time.svg" width="47%" alt="Tiempo productivo" />
-</div>
+  ![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=javacachava&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00B4D8&line=00B4D8&point=ffffff)
 
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=javacachava&theme=tokyonight&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&locale=es" alt="Racha de contribuciones" />
 </div>
 
 <br>
