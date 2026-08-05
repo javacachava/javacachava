@@ -1,12 +1,7 @@
 <!-- IDIOMA -->
 <div align="right">
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/EN-English-555?style=flat&labelColor=0d1117" height="20" />
-  </a>
-  &nbsp;
-  <a href="./README_ES.md">
-    <img src="https://img.shields.io/badge/ES-Español-00B4D8?style=flat&labelColor=0d1117" height="20" />
-  </a>
+  <a href="./README.md"><kbd>🇺🇸 English</kbd></a> &nbsp;
+  <a href="./README_ES.md"><kbd>🇪🇸 Español</kbd></a>
 </div>
 
 <!-- HEADER -->
