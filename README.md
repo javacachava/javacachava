@@ -26,29 +26,27 @@ Especializado en arquitectura cloud segura, protección de aplicaciones y direcc
 
 ### 🛠️ Stack Tecnológico
 
-**Cloud & Arquitectura**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,postgres,mysql,firebase,docker,linux,githubactions,nodejs,java,cs,react,git,bash" />
+</p>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+- **Cloud & Infraestructura:** AWS (Fundamentos), Azure, Google Cloud, Cloudflare CDN, Linux, Docker, GitHub Actions.
+- **Ciberseguridad & Gobernanza:** OWASP Top 10, Zero Trust Architecture, RBAC / IAM, Ethical Hacking, Respuesta a Incidentes, ITIL Governance.
+- **Bases de Datos & Almacenamiento:** PostgreSQL, MySQL, SQLite, Firebase Firestore, Modelado ER.
+- **Desarrollo & Scripting:** Node.js, Java (Spring Boot), C#, JavaScript, React, Bash / PowerShell.
 
-**Ciberseguridad & Infraestructura**
+---
 
-`OWASP Top 10` `Zero Trust Architecture` `RBAC / IAM` `Ethical Hacking` `Respuesta a Incidentes` `Redes & Criptografía`
+### 📊 Métricas & Actividad en GitHub
 
-**Bases de Datos & Almacenamiento**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=javacachava&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas generales de GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javacachava&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" height="150" />
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Desarrollo & Scripting**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=javacachava&theme=dark&hide_border=true" alt="Racha de contribuciones" />
+</p>
 
 ---
 
@@ -58,4 +56,4 @@ Especializado en arquitectura cloud segura, protección de aplicaciones y direcc
 
 ---
 
-<p align="center"><i>Abierto a roles de Ciberseguridad, Cloud Security Engineer y SOC Analyst 🔐</i></p>
+<p align="center"><i>Abierto a roles remotas de Ciberseguridad, Cloud Security Engineer y SOC Analyst 🔐</i></p>
