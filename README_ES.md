@@ -40,21 +40,42 @@
 
 ## &nbsp;🔭 Sobre Mí
 
-```yaml
-nombre: Oliver Ascencio
-rol: Cloud Security & Cybersecurity Engineer
-empresa: Wuju (Cofundador & Líder Técnico)
-formación:
-  - Ingeniería en Desarrollo de Software (UNICAES) — en curso
-  - TSU en Ciberseguridad (ESIT/MINED — avalado por INFOTEC MX)
-enfoque:
-  - Arquitectura Zero Trust & IAM
-  - Seguridad de Aplicaciones & DevSecOps
-  - Hardening de Infraestructura Cloud
-  - OWASP Top 10 & Modelado de Amenazas
-buscando: Roles remotos en Ciberseguridad, SOC, Cloud Security & DevSecOps
-idiomas: [Español (nativo), Inglés (B1+ → B2)]
-```
+<table>
+  <tr>
+    <td width="55%">
+
+&nbsp; 🛡️ **Cloud Security & Cybersecurity Engineer**
+
+&nbsp; 🏢 Cofundador & Líder Técnico @ [**Wuju**](https://oliver.wuju.dev)
+
+&nbsp; 🎓 Ingeniería en Desarrollo de Software (UNICAES) — en curso
+
+&nbsp; 🎓 TSU en Ciberseguridad (ESIT/MINED — avalado por INFOTEC MX)
+
+&nbsp; 🌎 Abierto a roles remotos a nivel mundial
+
+&nbsp; 🗣️ Español (nativo) · Inglés (B1+ → B2)
+
+  </td>
+    <td width="45%">
+
+&nbsp; **En lo que me enfoco:**
+
+&nbsp; `🔒 Zero Trust & IAM`
+
+&nbsp; `🛡️ AppSec & DevSecOps`
+
+&nbsp; `☁️ Cloud Hardening`
+
+&nbsp; `📋 OWASP Top 10`
+
+&nbsp; `🧠 Modelado de Amenazas`
+
+&nbsp; `⚙️ CI/CD Seguro`
+
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -85,31 +106,31 @@ idiomas: [Español (nativo), Inglés (B1+ → B2)]
 
 ## &nbsp;📊 Estadísticas de GitHub
 
+<!-- Generadas por github-profile-summary-cards (nunca fallan) -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=javacachava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&icon_color=00B4D8&title_color=00B4D8&locale=es" />
-    <img src="https://github-readme-stats.vercel.app/api?username=javacachava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&icon_color=00B4D8&title_color=00B4D8&locale=es" height="170" alt="Estadísticas de GitHub" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/javacachava/javacachava/profile-summary/profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" alt="Detalles del perfil" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/javacachava/javacachava/profile-summary/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="47%" alt="Repos por lenguaje" />
   &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=javacachava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&locale=es" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javacachava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&locale=es" height="170" alt="Lenguajes más usados" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/javacachava/javacachava/profile-summary/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="47%" alt="Lenguaje con más commits" />
 </div>
 
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=javacachava&theme=tokyonight&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&locale=es" />
-    <img src="https://streak-stats.demolab.com/?user=javacachava&theme=tokyonight&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&locale=es" alt="Racha de contribuciones" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/javacachava/javacachava/profile-summary/profile-summary-card-output/tokyonight/3-stats.svg" width="47%" alt="Estadísticas" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/javacachava/javacachava/profile-summary/profile-summary-card-output/tokyonight/4-productive-time.svg" width="47%" alt="Tiempo productivo" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javacachava&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00B4D8&line=00B4D8&point=ffffff" width="95%" alt="Gráfico de actividad" />
+  <img src="https://streak-stats.demolab.com/?user=javacachava&theme=tokyonight&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&locale=es" alt="Racha de contribuciones" />
 </div>
 
 <br>
@@ -133,6 +154,14 @@ idiomas: [Español (nativo), Inglés (B1+ → B2)]
   <img src="https://img.shields.io/badge/AWS-Cloud_Fundamentals-00B4D8?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0d1117" />
   &nbsp;
   <img src="https://img.shields.io/badge/ITIL-Governance_Framework-00B4D8?style=for-the-badge&labelColor=0d1117" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Ethical-Hacking-00B4D8?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Data-Lakes-00B4D8?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Kodigo-Full_Stack_Bootcamp-00B4D8?style=for-the-badge&logo=codecademy&logoColor=white&labelColor=0d1117" />
 
 </div>
 
