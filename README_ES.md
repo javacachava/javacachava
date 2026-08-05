@@ -38,40 +38,40 @@
 
 ---
 
-## &nbsp;🔭 Sobre Mí
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="28" />&nbsp; Sobre Mí
 
 <table>
   <tr>
     <td width="55%">
 
-&nbsp; 🛡️ **Cloud Security & Cybersecurity Engineer**
+&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="18" /> **Cloud Security & Cybersecurity Engineer**
 
-&nbsp; 🏢 Cofundador & Líder Técnico @ [**Wuju**](https://oliver.wuju.dev)
+&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="18" /> Cofundador & Líder Técnico @ [**Wuju**](https://oliver.wuju.dev)
 
-&nbsp; 🎓 Ingeniería en Desarrollo de Software (UNICAES) — en curso
+&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="18" /> Ingeniería en Desarrollo de Software (UNICAES) — en curso
 
-&nbsp; 🎓 TSU en Ciberseguridad (ESIT/MINED — avalado por INFOTEC MX)
+&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="18" /> TSU en Ciberseguridad (ESIT/MINED — avalado por INFOTEC MX)
 
-&nbsp; 🌎 Abierto a roles remotos a nivel mundial
+&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="18" /> Abierto a roles remotos a nivel mundial
 
-&nbsp; 🗣️ Español (nativo) · Inglés (B1+ → B2)
+&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="18" /> Español (nativo) · Inglés (B1+ → B2)
 
   </td>
     <td width="45%">
 
 &nbsp; **En lo que me enfoco:**
 
-&nbsp; `🔒 Zero Trust & IAM`
+&nbsp; <img src="https://cdn.simpleicons.org/letsencrypt/white" width="14" /> `Zero Trust & IAM`
 
-&nbsp; `🛡️ AppSec & DevSecOps`
+&nbsp; <img src="https://cdn.simpleicons.org/owasp/white" width="14" /> `AppSec & DevSecOps`
 
-&nbsp; `☁️ Cloud Hardening`
+&nbsp; <img src="https://cdn.simpleicons.org/icloud/white" width="14" /> `Cloud Hardening`
 
-&nbsp; `📋 OWASP Top 10`
+&nbsp; <img src="https://cdn.simpleicons.org/owasp/white" width="14" /> `OWASP Top 10`
 
-&nbsp; `🧠 Modelado de Amenazas`
+&nbsp; <img src="https://cdn.simpleicons.org/target/white" width="14" /> `Modelado de Amenazas`
 
-&nbsp; `⚙️ CI/CD Seguro`
+&nbsp; <img src="https://cdn.simpleicons.org/githubactions/white" width="14" /> `CI/CD Seguro`
 
   </td>
   </tr>
@@ -79,22 +79,22 @@
 
 ---
 
-## &nbsp;🛠️ Stack Tecnológico
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" />&nbsp; Stack Tecnológico
 
 <div align="center">
 <table>
   <tr>
     <td align="center" width="33%">
-      <h4>☁️ Cloud & Infra</h4>
+      <h4><img src="https://cdn.simpleicons.org/icloud/00B4D8" width="18" /> Cloud & Infra</h4>
       <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare&theme=dark" /><br><br>
       <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,bash&theme=dark" />
     </td>
     <td align="center" width="33%">
-      <h4>🗄️ Datos & Almacenamiento</h4>
+      <h4><img src="https://cdn.simpleicons.org/postgresql/00B4D8" width="18" /> Datos & Almacenamiento</h4>
       <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&theme=dark" />
     </td>
     <td align="center" width="33%">
-      <h4>⚡ Desarrollo & Scripting</h4>
+      <h4><img src="https://cdn.simpleicons.org/javascript/00B4D8" width="18" /> Desarrollo & Scripting</h4>
       <img src="https://skillicons.dev/icons?i=nodejs,java,cs,react&theme=dark" /><br><br>
       <img src="https://skillicons.dev/icons?i=js,git&theme=dark" />
     </td>
@@ -104,9 +104,8 @@
 
 ---
 
-## &nbsp;📊 Estadísticas de GitHub
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" />&nbsp; Estadísticas de GitHub
 
-<!-- Generadas por github-profile-summary-cards (nunca fallan) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/javacachava/javacachava/profile-summary/profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" alt="Detalles del perfil" />
 </div>
@@ -145,23 +144,23 @@
 
 ---
 
-## &nbsp;🎓 Cursos & Formación
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="28" />&nbsp; Cursos & Formación
 
 <div align="center">
 
   <img src="https://img.shields.io/badge/CompTIA-Security_Fundamentals-00B4D8?style=for-the-badge&logo=comptia&logoColor=white&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/AWS-Cloud_Fundamentals-00B4D8?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AWS-Cloud_Fundamentals-00B4D8?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/ITIL-Governance_Framework-00B4D8?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/ITIL_4-Governance_Framework-00B4D8?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117" />
 
   <br>
 
-  <img src="https://img.shields.io/badge/Ethical-Hacking-00B4D8?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Kali_Linux-Ethical_Hacking-00B4D8?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Data-Lakes-00B4D8?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AWS-Data_Lakes-00B4D8?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Kodigo-Full_Stack_Bootcamp-00B4D8?style=for-the-badge&logo=codecademy&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Kodigo-Full_Stack_Bootcamp-00B4D8?style=for-the-badge&logo=stackblitz&logoColor=white&labelColor=0d1117" />
 
 </div>
 
