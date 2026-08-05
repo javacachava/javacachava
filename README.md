@@ -54,7 +54,7 @@
 
 &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="18" /> Open to remote roles worldwide
 
-&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="18" /> Spanish (native) · English (B1+ → B2)
+&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="18" /> Spanish (native) · English (B1+ → B2)
 
   </td>
     <td width="45%">
@@ -108,9 +108,9 @@
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javacachava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&icon_color=00B4D8&title_color=00B4D8)
+  ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=javacachava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&icon_color=00B4D8&title_color=00B4D8)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javacachava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8)
+  ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=javacachava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8)
 
   ![Streak Stats](https://streak-stats.demolab.com/?user=javacachava&theme=tokyonight&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8)
 
