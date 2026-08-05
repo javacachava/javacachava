@@ -67,33 +67,14 @@ idiomas: [Español (nativo), Inglés (B1+ → B2)]
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
+#### ☁️ Cloud & Infraestructura
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,linux,githubactions,bash&theme=dark" />
 
-**☁️ Cloud & Infra**
+#### 🗄️ Datos & Almacenamiento
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare&perline=4" /><br>
-<img src="https://skillicons.dev/icons?i=docker,linux,githubactions,bash&perline=4" />
-
-</td>
-<td align="center" width="33%">
-
-**🗄️ Datos & Almacenamiento**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&perline=4" />
-
-</td>
-<td align="center" width="33%">
-
-**⚡ Desarrollo & Scripting**
-
-<img src="https://skillicons.dev/icons?i=nodejs,java,cs,react&perline=4" /><br>
-<img src="https://skillicons.dev/icons?i=js,git&perline=4" />
-
-</td>
-</tr>
-</table>
+#### ⚡ Desarrollo & Scripting
+<img src="https://skillicons.dev/icons?i=nodejs,java,cs,react,js,git&theme=dark" />
 
 </div>
 
