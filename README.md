@@ -66,16 +66,24 @@ languages: [Spanish (native), English (B1+ → B2)]
 ## &nbsp;🛠️ Tech Stack
 
 <div align="center">
-
-#### ☁️ Cloud & Infrastructure
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,linux,githubactions,bash&theme=dark" />
-
-#### 🗄️ Data & Storage
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&theme=dark" />
-
-#### ⚡ Development & Scripting
-<img src="https://skillicons.dev/icons?i=nodejs,java,cs,react,js,git&theme=dark" />
-
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h4>☁️ Cloud & Infra</h4>
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare&theme=dark" /><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,bash&theme=dark" />
+    </td>
+    <td align="center" width="33%">
+      <h4>🗄️ Data & Storage</h4>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&theme=dark" />
+    </td>
+    <td align="center" width="33%">
+      <h4>⚡ Dev & Scripting</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,java,cs,react&theme=dark" /><br><br>
+      <img src="https://skillicons.dev/icons?i=js,git&theme=dark" />
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -83,21 +91,30 @@ languages: [Spanish (native), English (B1+ → B2)]
 ## &nbsp;📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javacachava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&icon_color=00B4D8&title_color=00B4D8" height="170" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=javacachava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&icon_color=00B4D8&title_color=00B4D8" />
+    <img src="https://github-readme-stats.vercel.app/api?username=javacachava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&icon_color=00B4D8&title_color=00B4D8" height="170" alt="GitHub Stats" />
+  </picture>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javacachava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8" height="170" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=javacachava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javacachava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8" height="170" alt="Top Languages" />
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=javacachava&theme=tokyonight&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=javacachava&theme=tokyonight&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" />
+    <img src="https://streak-stats.demolab.com/?user=javacachava&theme=tokyonight&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="Streak Stats" />
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javacachava&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00B4D8&line=00B4D8&point=ffffff" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javacachava&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00B4D8&line=00B4D8&point=ffffff" width="95%" alt="Activity Graph" />
 </div>
 
 <br>
@@ -127,7 +144,7 @@ languages: [Spanish (native), English (B1+ → B2)]
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=javacachava&style=flat-square&color=00B4D8&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=javacachava&style=flat-square&color=00B4D8&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <br>
