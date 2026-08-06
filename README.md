@@ -1,7 +1,7 @@
-<!-- LANGUAGE -->
-<div align="right">
-  <a href="#espanol"><kbd>🇪🇸 Español</kbd></a>
-</div>
+<details name="lang" open>
+<summary><kbd>🇺🇸&nbsp; English</kbd></summary>
+
+<br>
 
 <!-- HEADER -->
 <div align="center">
@@ -159,13 +159,14 @@
   <sub>⚡ Open to remote opportunities in <b>Cybersecurity · Cloud Security · SOC · DevSecOps</b> ⚡</sub>
 </div>
 
+</details>
+
+<details name="lang">
+<summary><kbd>🇪🇸&nbsp; Español</kbd></summary>
+
 <br>
 
-<details>
-<summary id="espanol"><b>🇪🇸&nbsp; Ver en Español</b></summary>
-
-<br>
-
+<!-- HEADER -->
 <div align="center">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1500&color=00B4D8&center=true&vCenter=true&width=800&height=45&lines=%C2%A1Hola!+Soy+Oliver+Ascencio+%F0%9F%91%8B)](https://git.io/typing-svg)
@@ -174,7 +175,32 @@
 
 </div>
 
-### <img src="https://api.iconify.design/tabler:user-circle.svg?color=%2300B4D8" width="24" />&nbsp; Sobre Mí
+<!-- REDES -->
+<div align="center">
+
+  <a href="https://oliver.wuju.dev">
+    <img src="https://img.shields.io/badge/oliver.wuju.dev-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/oliver-ascencio">
+    <img src="https://img.shields.io/badge/oliver--ascencio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:oliver.a.ascencio@gmail.com">
+    <img src="https://img.shields.io/badge/oliver.a.ascencio-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/javacachava">
+    <img src="https://img.shields.io/github/followers/javacachava?style=for-the-badge&logo=github&color=161b22&labelColor=0d1117" />
+  </a>
+
+</div>
+
+<br>
+
+---
+
+## <img src="https://api.iconify.design/tabler:user-circle.svg?color=%2300B4D8" width="28" />&nbsp; Sobre Mí
 
 <table>
   <tr>
@@ -213,7 +239,9 @@
   </tr>
 </table>
 
-### <img src="https://api.iconify.design/tabler:tools.svg?color=%2300B4D8" width="24" />&nbsp; Stack Tecnológico
+---
+
+## <img src="https://api.iconify.design/tabler:tools.svg?color=%2300B4D8" width="28" />&nbsp; Stack Tecnológico
 
 <div align="center">
 <table>
@@ -236,7 +264,9 @@
 </table>
 </div>
 
-### <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%2300B4D8" width="24" />&nbsp; Estadísticas de GitHub
+---
+
+## <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%2300B4D8" width="28" />&nbsp; Estadísticas de GitHub
 
 <div align="center">
 
@@ -248,7 +278,19 @@
 
 </div>
 
-### <img src="https://api.iconify.design/tabler:school.svg?color=%2300B4D8" width="24" />&nbsp; Cursos & Formación
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javacachava/javacachava/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/javacachava/javacachava/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/javacachava/javacachava/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## <img src="https://api.iconify.design/tabler:school.svg?color=%2300B4D8" width="28" />&nbsp; Cursos & Formación
 
 <div align="center">
 
@@ -266,6 +308,12 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Kodigo-Full_Stack_Bootcamp-00B4D8?style=for-the-badge&logo=stackblitz&logoColor=white&labelColor=0d1117" />
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=javacachava&style=flat-square&color=00B4D8&label=Visitas+al+Perfil" alt="Visitas al perfil" />
 </div>
 
 <br>
