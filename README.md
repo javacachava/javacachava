@@ -6,9 +6,15 @@
 <!-- HEADER -->
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1500&color=00B4D8&center=true&vCenter=true&width=800&height=45&lines=Hey!+I'm+Oliver+Ascencio+%F0%9F%91%8B)](https://git.io/typing-svg)
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1500&color=00B4D8&center=true&vCenter=true&width=380&height=40&lines=Hey%21+I%27m+Oliver+Ascencio" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1500&color=00B4D8&center=true&vCenter=true&width=800&height=45&lines=Hey%21+I%27m+Oliver+Ascencio" alt="Typing SVG" />
+  </picture>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=800&height=35&lines=Cloud+Security+%26+Cybersecurity+Engineer+%F0%9F%9B%A1%EF%B8%8F;Zero+Trust+%7C+IAM+%7C+DevSecOps+%F0%9F%94%90;Tech+Lead+%40+Wuju+%F0%9F%9A%80)](https://git.io/typing-svg)
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=380&height=28&lines=Cloud+Security+%26+Cybersecurity+Engineer;Zero+Trust+%7C+IAM+%7C+DevSecOps;Tech+Lead+%40+Wuju" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=800&height=35&lines=Cloud+Security+%26+Cybersecurity+Engineer;Zero+Trust+%7C+IAM+%7C+DevSecOps;Tech+Lead+%40+Wuju" alt="Typing SVG" />
+  </picture>
 
 </div>
 
@@ -147,9 +153,15 @@
 <!-- HEADER -->
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1500&color=00B4D8&center=true&vCenter=true&width=800&height=45&lines=%C2%A1Hola!+Soy+Oliver+Ascencio+%F0%9F%91%8B)](https://git.io/typing-svg)
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1500&color=00B4D8&center=true&vCenter=true&width=380&height=40&lines=%C2%A1Hola%21+Soy+Oliver+Ascencio" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1500&color=00B4D8&center=true&vCenter=true&width=800&height=45&lines=%C2%A1Hola%21+Soy+Oliver+Ascencio" alt="Typing SVG" />
+  </picture>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=800&height=35&lines=Cloud+Security+%26+Cybersecurity+Engineer+%F0%9F%9B%A1%EF%B8%8F;Zero+Trust+%7C+IAM+%7C+DevSecOps+%F0%9F%94%90;L%C3%ADder+T%C3%A9cnico+%40+Wuju+%F0%9F%9A%80)](https://git.io/typing-svg)
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=380&height=28&lines=Ingeniero+en+Ciberseguridad+y+Nube;Zero+Trust+%7C+IAM+%7C+DevSecOps;L%C3%ADder+T%C3%A9cnico+%40+Wuju" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=800&height=35&lines=Ingeniero+en+Ciberseguridad+y+Nube;Zero+Trust+%7C+IAM+%7C+DevSecOps;L%C3%ADder+T%C3%A9cnico+%40+Wuju" alt="Typing SVG" />
+  </picture>
 
 </div>
 
