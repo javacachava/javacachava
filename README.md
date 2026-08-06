@@ -1,10 +1,7 @@
-<div align="right">
-  <a href="#user-content-top"><kbd>🇺🇸&nbsp; English</kbd></a>
-  &nbsp;
-  <a href="#user-content-espanol"><kbd>🇪🇸&nbsp; Español</kbd></a>
-</div>
+<details name="lang" open>
+<summary><kbd>🇺🇸&nbsp; English</kbd></summary>
 
-<a id="top"></a>
+<br>
 
 <!-- HEADER -->
 <div align="center">
@@ -157,8 +154,10 @@
   <sub>Open to remote opportunities in <b>Cybersecurity · Cloud Security · SOC · DevSecOps</b></sub>
 </div>
 
-<details>
-<summary id="espanol"><b>🇪🇸&nbsp; Ver en Español</b></summary>
+</details>
+
+<details name="lang">
+<summary><kbd>🇪🇸&nbsp; Español</kbd></summary>
 
 <br>
 
