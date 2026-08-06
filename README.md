@@ -127,32 +127,26 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/CompTIA-Security_Fundamentals-00B4D8?style=for-the-badge&logo=comptia&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CompTIA_Security_Fundamentals-00B4D8?style=for-the-badge&logo=comptia&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/AWS-Cloud_Fundamentals-00B4D8?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AWS_Cloud_Fundamentals-00B4D8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNNi42NTcgMThDNC4wODUgMTggMiAxNS45OTMgMiAxMy41MTdzMi4wODUtNC40ODIgNC42NTctNC40ODJjLjM5My0xLjc2MiAxLjc5NC0zLjIgMy42NzUtMy43NzNjMS44OC0uNTcyIDMuOTU2LS4xOTMgNS40NDQgMWMxLjQ4OCAxLjE5IDIuMTYyIDMuMDA3IDEuNzcgNC43NjloLjk5YzEuOTEzIDAgMy40NjQgMS41NiAzLjQ2NCAzLjQ4NnMtMS41NTEgMy40ODctMy40NjUgMy40ODdINi42NTciLz48L3N2Zz4%3D" />
   &nbsp;
-  <img src="https://img.shields.io/badge/ITIL_4-Governance_Framework-00B4D8?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/ITIL_4_Governance_Framework-00B4D8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMTIgMTVhMyAzIDAgMSAwIDYgMGEzIDMgMCAxIDAtNiAwIi8%2BPHBhdGggZD0iTTEzIDE3LjVWMjJsMi0xLjVsMiAxLjV2LTQuNSIvPjxwYXRoIGQ9Ik0xMCAxOUg1YTIgMiAwIDAgMS0yLTJWN2MwLTEuMS45LTIgMi0yaDE0YTIgMiAwIDAgMSAyIDJ2MTBhMiAyIDAgMCAxLTEgMS43M002IDloMTJNNiAxMmgzbS0zIDNoMiIvPjwvZz48L3N2Zz4%3D" />
 
   <br>
 
-  <img src="https://img.shields.io/badge/Kali_Linux-Ethical_Hacking-00B4D8?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Kali_Linux_Ethical_Hacking-00B4D8?style=for-the-badge&logo=kalilinux&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/AWS-Data_Lakes-00B4D8?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AWS_Data_Lakes-00B4D8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNNi42NTcgMThDNC4wODUgMTggMiAxNS45OTMgMiAxMy41MTdzMi4wODUtNC40ODIgNC42NTctNC40ODJjLjM5My0xLjc2MiAxLjc5NC0zLjIgMy42NzUtMy43NzNjMS44OC0uNTcyIDMuOTU2LS4xOTMgNS40NDQgMWMxLjQ4OCAxLjE5IDIuMTYyIDMuMDA3IDEuNzcgNC43NjloLjk5YzEuOTEzIDAgMy40NjQgMS41NiAzLjQ2NCAzLjQ4NnMtMS41NTEgMy40ODctMy40NjUgMy40ODdINi42NTciLz48L3N2Zz4%3D" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Kodigo-Full_Stack_Bootcamp-00B4D8?style=for-the-badge&logo=stackblitz&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Kodigo_Full_Stack_Bootcamp-00B4D8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJtNyA4bC00IDRsNCA0bTEwLThsNCA0bC00IDRNMTQgNGwtNCAxNiIvPjwvc3ZnPg%3D%3D" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=javacachava&style=flat-square&color=00B4D8&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<br>
-
-<div align="center">
-  <sub>⚡ Open to remote opportunities in <b>Cybersecurity · Cloud Security · SOC · DevSecOps</b> ⚡</sub>
+  <sub>Open to remote opportunities in <b>Cybersecurity · Cloud Security · SOC · DevSecOps</b></sub>
 </div>
 
 </details>
@@ -286,32 +280,26 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/CompTIA-Security_Fundamentals-00B4D8?style=for-the-badge&logo=comptia&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CompTIA_Security_Fundamentals-00B4D8?style=for-the-badge&logo=comptia&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/AWS-Cloud_Fundamentals-00B4D8?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AWS_Cloud_Fundamentals-00B4D8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNNi42NTcgMThDNC4wODUgMTggMiAxNS45OTMgMiAxMy41MTdzMi4wODUtNC40ODIgNC42NTctNC40ODJjLjM5My0xLjc2MiAxLjc5NC0zLjIgMy42NzUtMy43NzNjMS44OC0uNTcyIDMuOTU2LS4xOTMgNS40NDQgMWMxLjQ4OCAxLjE5IDIuMTYyIDMuMDA3IDEuNzcgNC43NjloLjk5YzEuOTEzIDAgMy40NjQgMS41NiAzLjQ2NCAzLjQ4NnMtMS41NTEgMy40ODctMy40NjUgMy40ODdINi42NTciLz48L3N2Zz4%3D" />
   &nbsp;
-  <img src="https://img.shields.io/badge/ITIL_4-Governance_Framework-00B4D8?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/ITIL_4_Governance_Framework-00B4D8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMTIgMTVhMyAzIDAgMSAwIDYgMGEzIDMgMCAxIDAtNiAwIi8%2BPHBhdGggZD0iTTEzIDE3LjVWMjJsMi0xLjVsMiAxLjV2LTQuNSIvPjxwYXRoIGQ9Ik0xMCAxOUg1YTIgMiAwIDAgMS0yLTJWN2MwLTEuMS45LTIgMi0yaDE0YTIgMiAwIDAgMSAyIDJ2MTBhMiAyIDAgMCAxLTEgMS43M002IDloMTJNNiAxMmgzbS0zIDNoMiIvPjwvZz48L3N2Zz4%3D" />
 
   <br>
 
-  <img src="https://img.shields.io/badge/Kali_Linux-Ethical_Hacking-00B4D8?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Kali_Linux_Ethical_Hacking-00B4D8?style=for-the-badge&logo=kalilinux&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/AWS-Data_Lakes-00B4D8?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AWS_Data_Lakes-00B4D8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNNi42NTcgMThDNC4wODUgMTggMiAxNS45OTMgMiAxMy41MTdzMi4wODUtNC40ODIgNC42NTctNC40ODJjLjM5My0xLjc2MiAxLjc5NC0zLjIgMy42NzUtMy43NzNjMS44OC0uNTcyIDMuOTU2LS4xOTMgNS40NDQgMWMxLjQ4OCAxLjE5IDIuMTYyIDMuMDA3IDEuNzcgNC43NjloLjk5YzEuOTEzIDAgMy40NjQgMS41NiAzLjQ2NCAzLjQ4NnMtMS41NTEgMy40ODctMy40NjUgMy40ODdINi42NTciLz48L3N2Zz4%3D" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Kodigo-Full_Stack_Bootcamp-00B4D8?style=for-the-badge&logo=stackblitz&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Kodigo_Full_Stack_Bootcamp-00B4D8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJtNyA4bC00IDRsNCA0bTEwLThsNCA0bC00IDRNMTQgNGwtNCAxNiIvPjwvc3ZnPg%3D%3D" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=javacachava&style=flat-square&color=00B4D8&label=Visitas+al+Perfil" alt="Visitas al perfil" />
-</div>
-
-<br>
-
-<div align="center">
-  <sub>⚡ Abierto a oportunidades remotas en <b>Ciberseguridad · Cloud Security · SOC · DevSecOps</b> ⚡</sub>
+  <sub>Abierto a oportunidades remotas en <b>Ciberseguridad · Cloud Security · SOC · DevSecOps</b></sub>
 </div>
 
 </details>
