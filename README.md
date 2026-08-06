@@ -38,23 +38,23 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="28" />&nbsp; About Me
+## <img src="https://api.iconify.design/tabler:user-circle.svg?color=%2300B4D8" width="28" />&nbsp; About Me
 
 <table>
   <tr>
     <td width="55%">
 
-&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="18" /> **Cloud Security & Cybersecurity Engineer**
+&nbsp; <img src="https://api.iconify.design/tabler:shield-check.svg?color=%2300B4D8" width="18" /> **Cloud Security & Cybersecurity Engineer**
 
-&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="18" /> Co-founder & Tech Lead @ [**Wuju**](https://oliver.wuju.dev)
+&nbsp; <img src="https://api.iconify.design/tabler:building.svg?color=%2300B4D8" width="18" /> Co-founder & Tech Lead @ [**Wuju**](https://oliver.wuju.dev)
 
-&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="18" /> BSc Software Engineering (UNICAES) — in progress
+&nbsp; <img src="https://api.iconify.design/tabler:school.svg?color=%2300B4D8" width="18" /> BSc Software Engineering (UNICAES) — in progress
 
-&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="18" /> TSU Cybersecurity (ESIT/MINED — backed by INFOTEC MX)
+&nbsp; <img src="https://api.iconify.design/tabler:school.svg?color=%2300B4D8" width="18" /> TSU Cybersecurity (ESIT/MINED — backed by INFOTEC MX)
 
-&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="18" /> Open to remote roles worldwide
+&nbsp; <img src="https://api.iconify.design/tabler:world.svg?color=%2300B4D8" width="18" /> Open to remote roles worldwide
 
-&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="18" /> Spanish (native) · English (B1+ → B2)
+&nbsp; <img src="https://api.iconify.design/tabler:language.svg?color=%2300B4D8" width="18" /> Spanish (native) · English (B1+ → B2)
 
   </td>
     <td width="45%">
@@ -79,7 +79,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" />&nbsp; Tech Stack
+## <img src="https://api.iconify.design/tabler:tools.svg?color=%2300B4D8" width="28" />&nbsp; Tech Stack
 
 <div align="center">
 <table>
@@ -104,7 +104,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" />&nbsp; GitHub Stats
+## <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%2300B4D8" width="28" />&nbsp; GitHub Stats
 
 <div align="center">
 
@@ -113,8 +113,6 @@
   ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=javacachava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8)
 
   ![Streak Stats](https://streak-stats.demolab.com/?user=javacachava&theme=tokyonight&hide_border=true&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8)
-
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=javacachava&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00B4D8&line=00B4D8&point=ffffff)
 
 </div>
 
@@ -130,7 +128,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="28" />&nbsp; Courses & Training
+## <img src="https://api.iconify.design/tabler:school.svg?color=%2300B4D8" width="28" />&nbsp; Courses & Training
 
 <div align="center">
 
