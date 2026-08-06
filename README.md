@@ -35,10 +35,6 @@
 
 ## <img src="https://api.iconify.design/tabler:user-circle.svg?color=%2300B4D8" width="28" />&nbsp; About Me
 
-<table>
-  <tr>
-    <td width="55%">
-
 &nbsp; <img src="https://api.iconify.design/tabler:shield-check.svg?color=%2300B4D8" width="18" /> **Cloud Security & Cybersecurity Engineer**
 
 &nbsp; <img src="https://api.iconify.design/tabler:building.svg?color=%2300B4D8" width="18" /> Co-founder & Tech Lead @ [**Wuju**](https://oliver.wuju.dev)
@@ -50,9 +46,6 @@
 &nbsp; <img src="https://api.iconify.design/tabler:world.svg?color=%2300B4D8" width="18" /> Open to remote roles worldwide
 
 &nbsp; <img src="https://api.iconify.design/tabler:language.svg?color=%2300B4D8" width="18" /> Spanish (native) · English (B1+ → B2)
-
-  </td>
-    <td width="45%">
 
 &nbsp; **What I focus on:**
 
@@ -68,33 +61,28 @@
 
 &nbsp; <img src="https://cdn.simpleicons.org/githubactions/white" width="14" /> `Secure CI/CD`
 
-  </td>
-  </tr>
-</table>
-
 ---
 
 ## <img src="https://api.iconify.design/tabler:tools.svg?color=%2300B4D8" width="28" />&nbsp; Tech Stack
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h4><img src="https://cdn.simpleicons.org/icloud/00B4D8" width="18" /> Cloud & Infra</h4>
-      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare&theme=dark" /><br><br>
-      <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,bash&theme=dark" />
-    </td>
-    <td align="center" width="33%">
-      <h4><img src="https://cdn.simpleicons.org/postgresql/00B4D8" width="18" /> Data & Storage</h4>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&theme=dark" />
-    </td>
-    <td align="center" width="33%">
-      <h4><img src="https://cdn.simpleicons.org/javascript/00B4D8" width="18" /> Dev & Scripting</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,java,cs,react&theme=dark" /><br><br>
-      <img src="https://skillicons.dev/icons?i=js,git&theme=dark" />
-    </td>
-  </tr>
-</table>
+<h4><img src="https://cdn.simpleicons.org/icloud/00B4D8" width="18" /> Cloud & Infra</h4>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=docker,linux,githubactions,bash&theme=dark" />
+
+<br><br>
+
+<h4><img src="https://cdn.simpleicons.org/postgresql/00B4D8" width="18" /> Data & Storage</h4>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&theme=dark" />
+
+<br><br>
+
+<h4><img src="https://cdn.simpleicons.org/javascript/00B4D8" width="18" /> Dev & Scripting</h4>
+
+<img src="https://skillicons.dev/icons?i=nodejs,java,cs,react&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=js,git&theme=dark" />
 </div>
 
 ---
@@ -188,10 +176,6 @@
 
 ## <img src="https://api.iconify.design/tabler:user-circle.svg?color=%2300B4D8" width="28" />&nbsp; Sobre Mí
 
-<table>
-  <tr>
-    <td width="55%">
-
 &nbsp; <img src="https://api.iconify.design/tabler:shield-check.svg?color=%2300B4D8" width="18" /> **Cloud Security & Cybersecurity Engineer**
 
 &nbsp; <img src="https://api.iconify.design/tabler:building.svg?color=%2300B4D8" width="18" /> Cofundador & Líder Técnico @ [**Wuju**](https://oliver.wuju.dev)
@@ -203,9 +187,6 @@
 &nbsp; <img src="https://api.iconify.design/tabler:world.svg?color=%2300B4D8" width="18" /> Abierto a roles remotos a nivel mundial
 
 &nbsp; <img src="https://api.iconify.design/tabler:language.svg?color=%2300B4D8" width="18" /> Español (nativo) · Inglés (B1+ → B2)
-
-  </td>
-    <td width="45%">
 
 &nbsp; **En lo que me enfoco:**
 
@@ -221,33 +202,28 @@
 
 &nbsp; <img src="https://cdn.simpleicons.org/githubactions/white" width="14" /> `CI/CD Seguro`
 
-  </td>
-  </tr>
-</table>
-
 ---
 
 ## <img src="https://api.iconify.design/tabler:tools.svg?color=%2300B4D8" width="28" />&nbsp; Stack Tecnológico
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h4><img src="https://cdn.simpleicons.org/icloud/00B4D8" width="18" /> Cloud & Infra</h4>
-      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare&theme=dark" /><br><br>
-      <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,bash&theme=dark" />
-    </td>
-    <td align="center" width="33%">
-      <h4><img src="https://cdn.simpleicons.org/postgresql/00B4D8" width="18" /> Datos & Almacenamiento</h4>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&theme=dark" />
-    </td>
-    <td align="center" width="33%">
-      <h4><img src="https://cdn.simpleicons.org/javascript/00B4D8" width="18" /> Desarrollo & Scripting</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,java,cs,react&theme=dark" /><br><br>
-      <img src="https://skillicons.dev/icons?i=js,git&theme=dark" />
-    </td>
-  </tr>
-</table>
+<h4><img src="https://cdn.simpleicons.org/icloud/00B4D8" width="18" /> Cloud & Infra</h4>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=docker,linux,githubactions,bash&theme=dark" />
+
+<br><br>
+
+<h4><img src="https://cdn.simpleicons.org/postgresql/00B4D8" width="18" /> Datos & Almacenamiento</h4>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&theme=dark" />
+
+<br><br>
+
+<h4><img src="https://cdn.simpleicons.org/javascript/00B4D8" width="18" /> Desarrollo & Scripting</h4>
+
+<img src="https://skillicons.dev/icons?i=nodejs,java,cs,react&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=js,git&theme=dark" />
 </div>
 
 ---
