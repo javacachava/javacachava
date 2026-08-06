@@ -16,19 +16,15 @@
 <div align="center">
 
   <a href="https://oliver.wuju.dev">
-    <img src="https://img.shields.io/badge/oliver.wuju.dev-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/oliver.wuju.dev-00B4D8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMyAxMmE5IDkgMCAxIDAgMTggMGE5IDkgMCAwIDAtMTggMG0uNi0zaDE2LjhNMy42IDE1aDE2LjgiLz48cGF0aCBkPSJNMTEuNSAzYTE3IDE3IDAgMCAwIDAgMThtMS0xOGExNyAxNyAwIDAgMSAwIDE4Ii8%2BPC9nPjwvc3ZnPg%3D%3D" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/oliver-ascencio">
-    <img src="https://img.shields.io/badge/oliver--ascencio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/oliver--ascencio-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNOCAxMXY1bTAtOHYuMDFNMTIgMTZ2LTVtNCA1di0zYTIgMiAwIDEgMC00IDAiLz48cGF0aCBkPSJNMyA3YTQgNCAwIDAgMSA0LTRoMTBhNCA0IDAgMCAxIDQgNHYxMGE0IDQgMCAwIDEtNCA0SDdhNCA0IDAgMCAxLTQtNHoiLz48L2c%2BPC9zdmc%2B" />
   </a>
   &nbsp;
   <a href="mailto:oliver.a.ascencio@gmail.com">
-    <img src="https://img.shields.io/badge/oliver.a.ascencio-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/javacachava">
-    <img src="https://img.shields.io/github/followers/javacachava?style=for-the-badge&logo=github&color=161b22&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/oliver.a.ascencio-EA4335?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMyA3YTIgMiAwIDAgMSAyLTJoMTRhMiAyIDAgMCAxIDIgMnYxMGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMnoiLz48cGF0aCBkPSJtMyA3bDkgNmw5LTYiLz48L2c%2BPC9zdmc%2B" />
   </a>
 
 </div>
@@ -179,19 +175,15 @@
 <div align="center">
 
   <a href="https://oliver.wuju.dev">
-    <img src="https://img.shields.io/badge/oliver.wuju.dev-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/oliver.wuju.dev-00B4D8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMyAxMmE5IDkgMCAxIDAgMTggMGE5IDkgMCAwIDAtMTggMG0uNi0zaDE2LjhNMy42IDE1aDE2LjgiLz48cGF0aCBkPSJNMTEuNSAzYTE3IDE3IDAgMCAwIDAgMThtMS0xOGExNyAxNyAwIDAgMSAwIDE4Ii8%2BPC9nPjwvc3ZnPg%3D%3D" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/oliver-ascencio">
-    <img src="https://img.shields.io/badge/oliver--ascencio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/oliver--ascencio-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNOCAxMXY1bTAtOHYuMDFNMTIgMTZ2LTVtNCA1di0zYTIgMiAwIDEgMC00IDAiLz48cGF0aCBkPSJNMyA3YTQgNCAwIDAgMSA0LTRoMTBhNCA0IDAgMCAxIDQgNHYxMGE0IDQgMCAwIDEtNCA0SDdhNCA0IDAgMCAxLTQtNHoiLz48L2c%2BPC9zdmc%2B" />
   </a>
   &nbsp;
   <a href="mailto:oliver.a.ascencio@gmail.com">
-    <img src="https://img.shields.io/badge/oliver.a.ascencio-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/javacachava">
-    <img src="https://img.shields.io/github/followers/javacachava?style=for-the-badge&logo=github&color=161b22&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/oliver.a.ascencio-EA4335?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMyA3YTIgMiAwIDAgMSAyLTJoMTRhMiAyIDAgMCAxIDIgMnYxMGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMnoiLz48cGF0aCBkPSJtMyA3bDkgNmw5LTYiLz48L2c%2BPC9zdmc%2B" />
   </a>
 
 </div>
